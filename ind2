@@ -1,0 +1,1990 @@
+.=
+< ?php ? > (opening and closing tags)
+\ (backslash)
+/*
+//
+& (ampersand)
+&& (Boolean And operator)
+“ (double quotes)
+== (equal to)
+=== (equal to
+› (greater than)
+› = (greater than or equal to)
+‹ (less than)
+!= (not equal to)
+‹› (not equal to)
+!== (not equal to
+same)
+. (operator)
+$ (regex)
+* (regex)
++ (regex)
+– (regex)
+. (regex)
+? (regex)
+^ (regex)
+{ n }
+{ n
+\d
+\D
+\s
+\S
+\w
+\W
+‘ (single quotation marks)
+?: (ternary operator)
+% (wildcard)
+_ (wildcard)
+‹ = (less than or equal to)
+| | (logical operator alternate)
+[ ] (regex)
+[^ ] (regex)
+- - $value
+abandonment
+abs()
+access logs
+account functionality (BBS)
+frm_admin.php
+frm_forgotpass.php
+frm_index.php
+frm_login.php
+frm_useraccount.php
+initial login
+User Administration page
+user management
+acronym
+ADD link
+Add submit button
+admin_area.php
+administration GUIs
+administration interface
+CMS
+mailing list
+movie review database
+administration transaction pages (BBS)
+admin.php
+advertising mailing lists
+ait.com
+E_ALL
+alt attributes
+ALTER
+ALTER TABLE
+AMP. See Apache
+ampersand (&)
+Analog
+AND (logical operator)
+And
+announcement mailing lists
+configuration
+on Linux
+error handling
+ErrorDocument directive
+functions (list)
+installation
+help/information
+on Linux
+online information
+testing
+logs
+role of
+starting/stopping
+web site
+Apache
+component interaction
+Apache Service Monitor
+array functions
+array pointer
+arrays
+adding
+defined
+foreach constructs and
+multidimensional
+sorting
+syntax
+arsort($array)
+article transaction pages
+creating
+feedback for
+publishing
+reviewing
+viewing
+AS
+asort($array)
+atomicity
+auth.inc.php
+401: Authorization Required
+auto-increment command
+avatars
+AWStats
+back references
+backslash (\)
+400: Bad Request
+BBcode Administration page
+BBcodes
+BCC (blind carbon copy)
+BCNF (Boyce-Codd Normal Form)
+BDB (BerkeleyDB)
+BerkeleyDB (BDB)
+BIGINT
+BINARY
+BIT
+blind carbon copy (BCC)
+BLOB
+BMP
+IMAGETYPE_BMP
+Board Administration page
+BOOL
+BOOLEAN
+Boolean And operator (&&)
+Boyce-Codd Normal Form (BCNF)
+breadcrumbs
+brightness
+bulletin board system (BBS)
+account functionality
+frm_admin.php
+frm_forgotpass.php
+frm_index.php
+frm_login.php
+frm_useraccount.php
+initial login
+User Administration page
+user management
+avatars
+polls
+quoting text
+smilies
+user profiles
+BBcodes
+breadcrumbs
+database
+features
+as forum
+frm_admin.php
+BBcode Administration
+Board Administration
+Forum Administration
+User Administration
+functionality
+pagination
+regex in
+reusable scripts
+searching in
+settings
+tables
+frm_access_levels
+frm_admin
+frm_bbcode
+frm_forum
+frm_post_count
+frm_posts
+frm_users
+transaction pages
+administration
+frm_transact_admin.php
+frm_transact_affirm.php
+frm_transact_post.php
+frm_transact_user.php
+post
+removal/deletion
+user–related
+user authentication
+using (exercise)
+calculate_differences()
+captions
+Cart32
+Cascade DELETE
+ceil()
+CHAR
+CHAR BYTE
+CHARACTER
+characters application
+edit_characters.php
+list_characters.php
+management of characters page
+pages in
+superhero powers page
+transaction page
+char_transaction.php
+check boxes
+check out process
+ecomm_checkout2.php
+ecomm_checkout3.php
+ecomm_checkout.php
+steps in
+testing
+checkdate()
+check_effect.php
+check_image.php
+captions and
+filters and
+child page
+classes
+encapsulation and
+SimpleMail
+class.SimpleMail.php
+closed source model
+closing/opening tags (< ?php ? >)
+cms_access_levels table
+cms_admin.php
+cms_articles table
+cms_comment.php
+cms_compose.php
+cms_cpanel.php
+cms_footer.inc.php
+cms_forgot_password.php
+cms_header.inc.php
+cms_http_functions.inc.php
+cms_index.php
+cms_login.php
+cms_output_functions.inc.php
+418
+cms_pending.php
+cms_review_article.php
+cms_search.php
+cms_transact_article.php
+cms_transact_user.php
+cms_user_account.php
+cms_users table
+cms_view_article.php
+code/coding practices
+comments in
+consistency in
+line numbers in
+colorizing images
+comic book fan web site
+bulletin board system
+account functionality
+additions
+BBcodes
+breadcrumbs
+database preparation
+features
+as forum
+functionality
+pagination
+regex in
+reusable scripts
+searching in
+settings
+tables
+transaction pages
+user authentication
+using (exercise)
+characters application
+edit_characters.php
+list_characters.php
+management of characters page
+pages in
+superhero powers page
+transaction page
+CMS
+articles
+database structure
+reusable scripts
+search feature
+transaction pages
+user control panel
+user interface
+database
+creating
+designing
+normalization
+standards
+e-commerce
+e-mail
+sending
+SimpleMail class
+mailing list
+administration page
+advertising
+announcements
+database
+ethics
+ml_admin.php
+ml_admin_transact.php
+ml_quick_msg.php
+ml_remove.php
+ml_thanks.php
+ml_user.php
+ml_user_transact.php
+newsletters
+opt–in
+opt–out
+removing subscriptions
+signup form
+spam
+tables
+types of
+web site notifications
+confirmation and
+images and
+JavaScript and
+creation of
+normalization and
+comic_character_power
+comic_rivalrly
+commands (MySQL)
+comments
+coding practice
+debugging and
+future changes and
+PHP
+commit.php
+checking dates/numbers
+editing
+erroneous user input
+switch
+common links
+comparison operators
+!=
+=
+‹
+›
+›=
+‹ =
+LIKE
+WHERE and
+E_COMPILE_ERROR
+E_COMPILE_WARNING
+composite primary key
+condition clauses
+confirmation
+workflow application and
+confirm.php
+connecting to MySQL server
+consistency
+constants
+content management system (CMS)
+creating
+feedback for
+publishing
+reviewing
+viewing
+database structure
+cms_access_levels table
+cms_admin.php
+cms_articles table
+cms_comment.php
+cms_compose.php
+cms_cpanel.php
+cms_footer.inc.php
+cms_forgot_password.php
+cms_header.inc.php
+cms_http_functions.inc.php
+419–420
+cms_index.php
+cms_login.php
+cms_output_functions.inc.php
+418
+cms_pending.php
+cms_review_article.php
+cms_search.php
+cms_transact_article.php
+cms_transact_user.php
+cms_user_account.php
+cms_users table
+cms_view_article.php
+reusable scripts
+search feature
+transaction pages
+user control panel
+user interface
+contrast
+converting image types
+cookies
+defined
+passing variables with
+security risks
+sessions v.
+setting
+tracking
+cookies_delete.php
+cookies_set.php
+cookies_test.php
+cookies_view.php
+copyrighted images
+E_CORE_ERROR
+E_CORE_WARNING
+CREATE
+CREATE DATABASE yourdatabase
+CREATE TABLE
+createimagefrom* ()
+cron jobs
+ctype_* functions
+ctype_alnum()
+ctype_alpha()
+ctype_cntrl()
+ctype_digit()
+ctype_graph()
+ctype_lower()
+ctype_print()
+ctype_punct()
+ctype_space()
+ctype_upper()
+ctype_xdigit()
+custom error messages
+custom logs
+custom_error.php
+characteristics
+communication with
+feedback
+personal customer service
+privacy policy
+return policy
+processing
+trust
+DB++
+dBase
+editing
+filePro
+Firebird
+FrontBase
+IBM DB2
+Informix
+Ingres Database
+mailing list
+MaxDB
+Microsoft Access
+Microsoft SQL Server
+mSQL
+data retrieval from
+manipulation commands
+parameters
+normalization
+Oracle OC18
+Ovrimos SQL
+Paradox File Access
+PDO and
+PHP supported
+PostgreSQL
+SQLite
+Sybase
+DATE
+date()
+date.php
+dates/numbers
+DATETIME
+field types
+formatting codes
+functions
+DB++
+dBase
+db_ch03–1.php
+db_ch03–2.php
+db_ch04–1.php
+db_ch04–2.php
+db_ch07–1.php
+db_ch07–2.php
+db_ch08.php
+db_ch10.php
+db_ch11–1.php
+db_ch11–2.php
+db_ch12–1.php
+db_ch12–2.php
+db_ch13.php
+db_ch14.php
+db_ch15–1.php
+db_ch15–2.php
+db_ch16.php
+db.inc.php
+comments and
+echo and
+tips
+Xdebug and
+DEC
+DECIMAL
+decrementing values
+- - $value
+$value - -
+define() function
+DELETE
+Cascade
+DELETE links
+delete.php
+Cascade DELETE
+of items in cart
+of records
+of transaction pages
+DESCRIBE
+design rules (standards)
+designing database (Comic Book)
+directory/file functions
+documentation
+DOUBLE
+DOUBLE PRECISION
+double quotation marks (“)
+do/while
+Dreamweaver CS3
+DROP
+drop–down list boxes
+echo
+debugging and
+print v.
+ecomm_checkout2.php
+ecomm_checkout3.php
+ecomm_checkout.php
+ecomm_customers table
+e-commerce
+common links
+competitive pricing
+characteristics
+communication with
+feedback
+personal customer service
+privacy policy
+return policy
+secure credit card processing
+trust
+guidelines
+home page
+information
+navigation
+appropriate
+ideas for
+timely delivery
+viewing information on
+professional look
+search feature
+abandonment
+Cart32
+check out process
+coding
+database
+db_ch15 - 1.php
+db_ch15 - 2.php
+ecomm_checkout2.php
+ecomm_checkout3.php
+ecomm_checkout.php
+ecomm_shop.php
+ecomm_update_cart.php
+ecomm_view_cart.php
+ecomm_view_product.php
+products
+tables
+temporary
+third–party software
+ecomm_order_details table
+ecomm_orders table
+ecomm_products table
+ecomm_shop.php
+ecomm_temp_cart table
+edges
+EDIT link
+edit_characters.php
+commit.php
+databases
+movie
+EditPlus
+edit_power.php
+E_ERROR
+efficient code
+functions and
+include statement
+else statements
+e-mail (PHP)
+error
+mail()
+errors and
+mail functions
+PHP setup for
+confirmation implementation
+images and
+sending
+data collection and
+headers and
+HTML and
+multipart messages
+simple
+SimpleMail class
+empty()
+empty variables
+encapsulation
+enctype attribute
+ENDHTML
+enemies data
+ENUM
+equal to (==)
+equal to
+E_ALL
+E_COMPILE_ERROR
+E_COMPILE_WARNING
+E_CORE_ERROR
+E_CORE_WARNING
+E_ERROR
+E_NOTICE
+E_PARSE
+E_RECOVERABLE_ERROR
+E_STRICT
+E_USER_ERROR
+E_USER_NOTICE
+E_USER_WARNING
+E_WARNING
+error e-mail
+error handling
+Apache
+custom
+exceptions
+full-featured
+functions
+PHP
+troubleshooting and
+try/catch method
+error key
+error logs
+error types (PHP)
+ErrorDocument directive
+error.php
+fatal
+generating
+‘headers already sent
+heredoc closing tag line
+custom
+500: Internal Server Error
+400: Bad Request
+401: Authorization Required
+403: Forbidden
+404: Not Found
+online list
+simulating
+not meeting conditions
+parse
+syntax
+trapping
+user input
+dates/numbers
+forgetting information
+formatting
+escaping
+ethics
+exceptions
+explode()
+extract()
+fatal errors
+feature_error.php
+feedback for articles (CMS)
+feedback
+fetch()
+fetch mode constants
+fetchAll()
+field types (MySQL)
+choosing
+date/time
+numeric
+reference list
+string
+fields
+in forms
+not null
+null
+Fifth Normal Form (5NF)
+file/directory functions
+filePro
+$_FILES array
+filters
+IMG_FILTER_BRIGHTNESS
+IMG_FILTER_COLORIZE
+IMG_FILTER_CONTRAST
+IMG_FILTER_EDGEDETECT
+IMG_FILTER_EMBOSS
+IMG_FILTER_GAUSSIAN_BLUR
+IMG_FILTER_GRAYSCALE
+IMG_FILTER_MEAN_REMOVAL
+IMG_FILTER_NEGATE
+IMG_FILTER_SELECTIVE_BLUR
+IMG_FILTER_SMOOTH
+Firebird
+First Normal Form (1NF)
+1NF (First Normal Form)
+echo in
+PHP/HTML in
+500: Internal Server Error
+5NF (Fifth Normal Form)
+FIXED
+FLOAT
+floor()
+for statement
+403: Forbidden
+foreach
+table creation and
+foreign keys
+form element
+form1.html
+form2.html
+form3.php
+form4a.php
+form4b.php
+form4.php
+date/time
+string
+formatting errors
+formprocess1.php
+formprocess2.php
+formprocess3.php
+forms
+fields
+for getting information
+linking
+multiple processing
+parts of
+passing variables through
+user input
+forum
+Forum Administration page
+FOUND_ROWS()
+400: Bad Request
+401: Authorization Required
+403: Forbidden
+404: Not Found
+4NF (Fourth Normal Form)
+Fourth Normal Form (4NF)
+Friedl
+frm_access_levels
+frm_admin table
+frm_admin.php
+BBcode Administration
+Board Administration
+Forum Administration
+User Administration
+frm_bbcode
+frm_compose.php
+frm_config.inc.php
+frm_edit_forum.php
+frm_footer.inc.php
+frm_forgotpass.php
+frm_forum
+frm_header.inc.php
+frm_index.php
+frm_login.php
+frm_output_functions.inc.php
+functionality
+pagination and
+show_topic()
+frm_post_count
+frm_posts
+frm_search.php
+frm_transact_admin.php
+frm_transact_affirm.php
+frm_transact_post.php
+frm_transact_user.php
+frm_useraccount.php
+frm_users
+frm_view_forum.php
+frm_view_topic.php
+FROM
+FrontBase
+full–featured error handler
+array-sorting
+ctype_*
+customized
+defined
+efficient code and
+is_*
+methods v.
+reference list
+Apache/PHP
+array
+date/time
+directory/file
+error–handling
+HTTP
+image
+logging
+mail
+mathematical
+miscellaneous
+MySQL
+network
+object handling
+online
+output buffer
+PDO database interface
+PHP configuration information
+process
+program execution
+session functions
+SimpleXML
+string
+URL
+variable
+type-validating
+gallery.php
+Gaussian blur
+GD library
+enabling
+image types and
+online information
+testing
+gd_info()
+Geany
+generate_ratings()
+generating errors
+GET method
+$_GET superglobal array
+get_director()
+getimageinfo()
+getimagesize()
+get_leadactor()
+get_movietype()
+gettor methods
+GIF
+IMAGETYPE_GIF
+support
+global
+Google Analytics
+grayscale
+greater than (›)
+greater than or equal to (›=)
+GUIs (graphical user interfaces)
+administration
+hashing
+header()
+problem code and
+warning message and
+header.php
+‘headers already sent’ error
+headers
+Hello World
+heredoc
+closing tag line
+syntax
+hits/page views
+hosting
+third-party
+administration GUIs
+bandwidth usage
+configuration ability
+online companies (list)
+pricing
+server access
+server control
+site usage
+supported databases
+supported languages
+htaccess files
+creating
+e-mail and
+PHP and
+references
+HTML–Kit Tools
+htpasswd
+creating
+drawbacks
+HTTP Analyze
+HTTP functions
+HTTP headers
+httpd.conf file
+IBM DB2
+if statements
+nested
+operators
+semicolons and
+if/else statements
+IFF
+IMAGETYPE_IFF
+IGNORE
+images
+brightness
+captions in
+colorizing
+contrast
+copyrighted
+edges
+e-mailing
+embedding text in
+filters for
+Gaussian blur
+grayscale
+logo (Movie Review site)
+mean removal
+negate color
+selective blur
+smoothing
+thumbnails
+uploading
+image functions
+image table
+BMP
+converting
+GD library and
+GIF
+IFF
+JB2
+JP2
+JPC
+JPG
+JPX
+PNG
+predefined constants
+PSD
+SWC
+SWG
+TIFF
+WBMP
+XBM
+ImageBMP library classes
+imagecopymerge()
+imagecreatefrom* ()
+ImageCreateFromBMP
+imagecreatefrompng()
+imagedestroy()
+image_effect.php
+imagefilter()
+filters
+imagegif()
+imagejpeg()
+imagepng()
+images directory
+imagettftext()
+IMAGETYPE_BMP
+IMAGETYPE_GIF
+IMAGETYPE_ICO
+IMAGETYPE_IFF
+IMAGETYPE_JB2
+IMAGETYPE_JP2
+IMAGETYPE_JPC
+IMAGETYPE_JPEG
+IMAGETYPE_JPX
+IMAGETYPE_PNG
+IMAGETYPE_PSD
+IMAGETYPE_SWC
+IMAGETYPE_SWF
+IMAGETYPE_TIFF_II
+IMAGETYPE_TIFF_MM
+IMAGETYPE_WBMP
+IMAGETYPE_XBM
+IMG_FILTER_BRIGHTNESS
+IMG_FILTER_COLORIZE
+IMG_FILTER_CONTRAST
+IMG_FILTER_EDGEDETECT
+IMG_FILTER_EMBOSS
+IMG_FILTER_GAUSSIAN_BLUR
+IMG_FILTER_GRAYSCALE
+IMG_FILTER_MEAN_REMOVAL
+IMG_FILTER_NEGATE
+IMG_FILTER_SELECTIVE_BLUR
+IMG_FILTER_SMOOTH
+include statement
+welcome message and
+incrementing values
+$value++
+++$value
+$value += 1
+$value = $value + 1
+indexes
+infiniology.com
+Informix
+Ingres Database
+initial login (BBS)
+INNER JOIN
+InnoDB
+input element
+check boxes
+drop–down list boxes
+password
+radio buttons
+submit
+text
+input testing
+INSERT
+INSERT INTO tablename VALUES
+people
+inserting records
+Apache
+help/information
+on Linux
+online information
+testing
+Apache on
+MySQL on
+PHP on
+MySQL
+help/information
+on Linux
+mysql.exe –– help
+online information
+testing
+on Linux
+manual
+online information
+testing
+troubleshooting
+INT
+INTEGER
+500: Internal Server Error
+243
+invision.net
+ipowerweb.com
+IRC channels
+is_* functions
+is_array()
+is_binary()
+is_bool()
+is_callable()
+is_float()
+is_int()
+is_null()
+is_numeric()
+is_object()
+is_resource()
+isset()
+is_string()
+is_unicode()
+JavaScript
+postcard application and
+ppk on JavaScript (Koch)
+JB2
+IMAGETYPE_JB2
+jEdit
+JOINs
+INNER
+LEFT
+JP2
+IMAGETYPE_JP2
+JPC
+IMAGETYPE_JPC
+JPG
+JPX
+IMAGETYPE_JPX
+jumpline.com
+junk mail
+keys
+defined
+error
+foreign
+name
+primary
+composite
+defined
+size
+tmp_ name
+type
+values for
+namespace
+private
+public
+Koch
+LAMP. See Linux
+land1.com
+lastInsertId()
+leapyear.php
+LEFT JOIN
+less than ( ‹ )
+LIKE (comparison operator)
+LIMIT
+limiting input choice
+line numbers
+forms
+tables
+links
+Apache configuration on
+Apache installation on
+MySQL installation on
+as open source
+PHP installation on
+Linux
+list_characters.php
+lists
+drop-down
+editing
+multiline
+single-selection
+LogFormat directive
+logging functions
+AND
+OR
+| | and
+&& and
+alternates to
+NOT
+WHERE and
+XOR
+login.php
+session tracking in
+tables for
+htpasswd and
+PHP for
+sessions and
+user accounts
+logo image
+logs
+access
+analyzing
+Analog
+AWStats
+Google Analytics
+HTTP Analyze
+Webalizer
+custom
+defined
+error
+as feedback
+information obtained from
+location of
+Apache
+MySQL
+PHP
+hits/page views
+site health
+site referrals
+trends over time
+user preferences/information
+LONGBLOB
+LONGTEXT
+loops
+lunarpages.com
+mail()
+errors and
+SimpleMail class v.
+uses for
+mail functions
+mail_html.php
+mailing lists
+administration page
+advertising
+announcements
+database
+ethics
+ml_admin.php
+ml_admin_transact.php
+ml_quick_msg.php
+ml_remove.php
+ml_thanks.php
+ml_user.php
+ml_user_transact.php
+newsletters
+opt–in
+opt–out
+removing subscriptions
+signup form
+spam
+ml_lists
+ml_subscriptions
+ml_users
+types of
+web site notifications
+mail_multipart.php
+mail_quick.php
+mail_text.php
+main.php
+many-to-many relationships
+master page
+master/child relationships
+Mastering Regular Expressions (Friedl)
+MATCH
+mathematical functions
+max()
+MaxDB
+MAX_FILE_SIZE
+MD5 hash
+(RFC 1321)
+mean removal
+MEDIUMBLOB
+MEDIUMINT
+MEDIUMTEXT
+MEMORY
+MERGE
+merging images
+methods
+functions v.
+gettor
+Microsoft Access
+Microsoft SQL Server
+midphase.com
+min()
+miscellaneous functions
+mktime()
+ml_admin.php
+ml_admin_transact.php
+ml_lists table
+ml_quick_msg.php
+ml_remove.php
+ml_subscriptions table
+ml_thanks.php
+ml_user.php
+ml_users table
+ml_user_transact.php
+movie review web site
+database
+administrative page
+creating
+editing
+image table
+querying
+referencing multiple tables
+forms
+fields
+for getting information
+linking
+multiple processing
+parts of
+passing variables through
+user input
+logo image
+rating stars
+table (for database)
+adding data
+creation
+displaying movie details
+heredoc and
+linking
+master/child relationships
+movie review
+validating user input
+welcome message for
+movie1.php
+functions in
+passing visitor’s username
+setting cookie
+urlencode()
+using forms to get information
+while in
+movie_details.php
+displaying reviews
+movie.php
+checking dates/numbers
+editing
+erroneous user input
+movie_rating
+movie_release
+movies table
+creation
+movie_rating
+movie_release
+arrays in
+constants in
+URL variables in
+variables in
+while in
+movietype table
+creation
+mSQL
+multidimensional arrays
+multiline list boxes
+multipart messages
+multiple submit buttons
+my_error_handler
+MyISAM
+commands
+configuring
+comic book
+data retrieval from
+manipulation commands
+parameters
+documentation
+field types
+reference list
+functions
+installation
+help/information
+on Linux
+mysql.exe ––help
+online information
+testing
+logs
+PHP configuration and
+Query Browser
+reference notes
+role of
+server
+session tracking
+spatial data formats
+starting/stopping
+storage engines
+Tools package
+user privileges
+web site
+MySQL Databases module
+mysql_* functions
+MySQL Server Instance Configuration Wizard
+mysqlbinlog utility
+mysql_close
+mysql_connect
+mysql_error
+mysql_fetch_array
+mysql_fetch_assoc
+mysql_insert_id
+mysql_num_rows
+mysql_query
+mysql_select_db
+name key
+names
+namespace keyword
+namespaces
+NCHAR
+negate color
+nested if statements
+net command
+network functions
+newsletter mailing lists
+non-transaction-safe tables (NTSTs)
+normalization
+1NF
+2NF
+3NF
+4NF
+5NF
+BCNF
+comic book database and
+guideline v. rules
+zero form
+NOT (logical operator)
+(!=)
+(‹›)
+not equal to
+same (!==)
+404: Not Found
+NOT NULL
+Notepad
+notices
+E_NOTICE
+NTSTs (non–transaction–safe tables)
+NULL
+zero v.
+number_format()
+numbers/dates
+NUMERIC
+numeric field types
+NVCHAR
+ob_end_flush()
+object–handling functions
+object–oriented programming (OOP)
+advantages of
+classes
+encapsulation and
+SimpleMail
+methods
+properties
+ob_start()
+olm.net
+1NF (First Normal Form)
+one-to-many relationships
+one-to-one relationships
+open source
+advantages
+Linux as
+sourceforge.net
+Open Source Definition test
+Open Source Initiative (OSI)
+opening/closing tags (< ?php ? >)
+operators
+operators; logical operators; ternary
+opt-in
+opt-out
+OR (logical operator)
+Oracle OC18
+ORDER BY
+OSI (Open Source Initiative)
+output buffer functions
+reference list
+output_story()
+Ovrimos SQL
+page views/hits
+paginate()
+pagination
+Paradox File Access
+parameters
+parse errors
+E_PARSE
+with cookies
+through forms
+through sessions
+through URLs
+passing visitor’s username
+PASSWORD()
+password (input field)
+pattern matching mechanisms
+$
+*
++
+–
+.
+?
+^
+[ ]
+[^ ]
+PDOStatement
+people table
+creation
+PHP (PHP: Hypertext Preprocessor)
+Apache configuration and
+on Linux
+closing/opening tags
+comments
+configuration information functions
+configuration
+cookie tracking with
+databases and
+displaying to browser
+error handling
+error types
+GD enabled in
+HTML and
+on Linux
+manual
+online information
+testing
+IRC channels
+for logins
+logs
+looping structures
+marking code
+OOP and
+recursive acronym
+reference notes
+role of
+semicolon and
+session tracking
+syntax rules
+online information
+web site
+PHP Data Objects (PDO)
+databases and
+fetch mode constants
+functions
+mysql_* functions v.
+online information
+requirements
+PHPBB
+PHPBuilder.com
+PhpED
+PHPEdit
+php.ini file
+PHPMyAdmin
+pipe characters
+PNG
+IMAGETYPE_PNG
+pointer
+polls (BBS)
+$_POST global array
+POST method
+post transaction pages
+confirmation and
+images and
+JavaScript and
+postcard.php
+PostgreSQL
+powweb.com
+ppk on JavaScript (Koch)
+predefined constants
+preg_match()
+primary keys
+composite
+defined
+print construct
+print_r()
+private keyword
+privileges
+process functions
+program execution functions
+properties
+proprietary software
+PSD
+IMAGETYPE_PSD
+public keyword
+publishing articles (CMS)
+put method
+Query Browser
+query string
+Quick Message page
+“ (double)
+‘ (single)
+quoting text
+radio buttons
+multiple
+rand()
+rating stars
+RDBMS (relational database management systems)
+REAL
+E_RECOVERABLE_ERROR
+recursive acronym
+redirect()
+field types
+functions
+MySQL
+PHP
+referential integrity
+comic_character_power and
+comic_rivalry and
+enemies data and
+online information
+register.php
+administrator section
+database-driven
+htpasswd and
+PHP for
+sessions and
+user accounts
+user section
+regular expressions (regex)
+back references
+BBS and
+defined
+Mastering Regular Expressions (Friedl)
+matching mechanisms
+pipe characters and
+syntax
+(RDBMS)
+relational databases
+defined
+deleting records
+inserting records
+updating records
+relationships
+many-to-many
+one-to-many
+one-to-one
+of mailing list subscriptions
+of transaction pages
+Report Magic
+hits/page views
+site health
+site referrals
+trends over time
+user preferences/information
+BBS
+CMS
+frm_config.inc.php
+frm_footer.inc.php
+frm_header.inc.php
+frm_output_functions.inc.php
+functionality
+pagination and
+show_topic()
+SimpleMail class
+reviewing articles (CMS)
+RFC 1321: MD5 Message-Digest Algorithm
+rowCount()
+rsort($array)
+notices
+warnings
+Say My Name
+BBS
+CMS
+Search submit button
+Second Normal Form (2NF)
+secret.php
+Secure Shell (SSH)
+Secure Socket Layer (SSL)
+cookies and
+online credit card processing and
+online information
+w3.org/Security/Faq/
+SELECT
+condition clauses
+query
+select1.php
+foreach in
+select2.php
+joining two tables
+referencing multiple tables
+selective blur
+if statements and
+PHP statements and
+send()
+sendconfirm.php
+sendmail_from
+sendmail_path
+sendmail.php
+session functions
+session tracking
+session_destroy()
+sessions
+cookies v.
+defined
+logins and
+passing variables through
+session_start()
+session_unset()
+SET
+setcookie() function
+setHTMLBody()
+setTextBody()
+7-Zip
+abandonment
+Cart32
+check out process
+steps in
+testing
+coding
+database
+db_ch15 – 1.php
+db_ch15 – 2.php
+ecomm_checkout2.php
+ecomm_checkout3.php
+ecomm_checkout.php
+ecomm_shop.php
+ecomm_update_cart.php
+ecomm_view_cart.php
+ecomm_view_product.php
+adding/changing/deleting
+viewing
+tables
+adding product information
+ecomm_customers
+ecomm_order_details
+ecomm_orders
+ecomm_products
+ecomm_temp_cart
+temporary
+third-party software
+SHOW DATABASES
+show_comments()
+show_topic()
+signup form (mailing list)
+SimpleMail class
+SimpleXML functions
+simulating error messages
+single quotation marks (‘)
+single-selection list
+site health
+site referrals
+site_user table
+site_user_info table
+size key
+SMALLINT
+smilies
+smoothing images
+SMTP
+smtp_port
+sort($array)
+sorting arrays
+sorting.php
+sourceforge.net
+spam
+spatial data formats
+spreadsheets
+SQL (Structured Query Language) server
+SQLite
+SSH (Secure Shell)
+SSL (Secure Socket Layer)
+standards (design rules)
+startlogic.com
+storage engines (MySQL)
+BDB
+InnoDB
+MEMORY
+MERGE
+MyISAM
+E_STRICT
+string field types
+string functions
+string-formatting codes
+strings
+strlen()
+strrpos()
+Structured Query Language (SQL) server
+submit
+submit buttons
+Add
+multiple
+Search
+subscriptions
+substr()
+SUM()
+superhero powers page
+SWC
+IMAGETYPE_SWC
+IMAGETYPE_SWF
+SWG
+switch() statement
+Sybase
+syntax errors
+table1.php
+table2.php
+table3.php
+tables
+BBS
+creating
+for database-driven logins
+foreach and
+joining
+linking
+ml_lists
+ml_subscriptions
+ml_users
+non-transaction–safe
+as spreadsheets
+transaction-safe
+types
+tags- closing/opening
+temporary shopping cart
+ternary operator (?:)
+check out process
+GD library
+troubleshooting and
+TEXT
+text (input)
+text editors
+Dreamweaver CS3
+EditPlus
+features
+Geany
+HTML-Kit Tools
+jEdit
+Notepad
+online information
+PhpED
+PHPEdit
+TextPad
+UltraEdit-32
+WordPad
+Zend Studio
+TextPad
+Third Normal Form (3NF)
+third-party hosting
+administration GUIs
+bandwidth usage
+configuration ability
+online companies (list)
+pricing
+server access
+server control
+site usage
+supported databases
+supported languages
+3NF (Third Normal Form)
+thumbnails
+TIFF
+IMAGETYPE_TIFF_II
+IMAGETYPE_TIFF_MM
+TIME
+TIMESTAMP
+TINYBLOB
+TINYINT
+TINYTEXT
+title attributes
+tmp_name key
+Tools package
+tooltips
+alt attributes
+title attributes
+transaction pages
+administration
+post
+removal/deletion
+user-related
+CMS
+article
+user-related
+comic book characters application
+frm_transact_admin.php
+frm_transact_affirm.php
+frm_transact_post.php
+frm_transact_user.php
+transaction-safe tables (TSTs)
+trapping errors
+trends over time
+trim()
+trim_body()
+troubleshooting
+empty variables
+error handling and
+installation
+parse errors
+testing and
+trust (e-commerce)
+personal customer service
+privacy policy
+return policy
+secure credit card processing
+administrator registration
+adding
+sorting
+creating
+feedback for
+publishing
+reviewing
+viewing
+account functionality
+database preparation
+editing settings
+transaction pages
+using
+database structure
+reusable scripts
+search feature
+transaction pages
+user control panel
+management of characters page
+superhero powers page
+table creation
+transaction pages
+constants
+setting
+tracking
+database (Movie Review site)
+dates/numbers
+deleting records
+cascade
+echo function
+e-commerce home page
+editing movie
+confirmation
+data collection and
+simple
+embedding text in images
+custom error handler
+custom error messages
+error e-mail
+full-featured error handler
+ErrorDocument directive
+exceptions
+filters
+foreach
+table creation and
+for getting information
+linking
+functions
+GD
+htpasswd and htaccess
+if and else
+if statement
+image table
+image types
+images -merging
+include - welcome message and
+inserting movie with known movie type and people
+joining two tables
+administration page
+database preparation
+removal of subscriptions
+signup form
+multiline list boxes
+passing variables through URLs
+passing visitor’s username
+PHP for logins
+PHP within HTML
+radio button
+referencing multiple tables
+reusable scripts
+Say My Name
+SELECT
+session tracking
+adding/changing/deleting items in
+creating tables
+product information for tables
+viewing contents
+SimpleMail class
+adding data
+creation
+for database-driven logins
+displaying movie details
+foreach and
+heredoc and
+linking
+master/child relationships
+movie review
+thumbnails
+transaction pages
+administration
+article
+post
+removal/deletion
+user-related
+user accounts
+adapting script to
+limiting choices
+variables
+while function
+try/catch method
+TSTs (transaction-safe tables)
+2NF (Second Normal Form)
+type key
+type-validating functions
+ucase()
+UltraEdit-32
+UNIQUE
+UPDATE
+update_user.php
+updating records
+UPLOAD_ERR_CANT_WRITE
+UPLOAD_ERR_EXTENSION
+UPLOAD_ERR_FORM_SIZE
+UPLOAD_ERR_INI
+UPLOAD_ERR_NO_FILE
+UPLOAD_ERR_NO_TMP_DIR
+UPLOAD_ERR_OK
+UPLOAD_ERR_PARTIAL
+upload_image.html
+uploading images
+URL functions
+urlencode()
+URLs
+user accounts
+User Administration page (BBS)
+user authentication (BBS)
+adapting script to
+choices
+errors
+dates/numbers
+forgetting information
+formatting
+forms and
+validating
+user interface (CMS)
+account creation
+administration page
+main index/login screen
+user management
+user management (BBS)
+user preferences/information
+user privileges
+user profiles
+BBS
+CMS
+E_USER_ERROR
+E_USER_NOTICE
+E_USER_WARNING
+user_option_list()
+validating functions
+validating user input
+validation
+$value++
+++$value
+$value – –
+$value += 1
+$value = $value + 1
+VARBINARY
+VARCHAR
+var_dump()
+variable functions
+variables
+empty
+names
+passing with cookies
+through forms
+through sessions
+through URLs
+Vbulletin
+viewing articles (CMS)
+Virtual Vacation site
+watermarks
+WBMP
+IMAGETYPE_WBMP
+web site notification mailing lists
+Webalizer
+websitesource.com
+welcome message
+WHERE
+comparison operators
+logical operators
+while
+wildcards
+%
+_
+Windows Service Manager
+WordPad
+workflow application
+wrox.com
+XBM
+IMAGETYPE_XBM
+Xdebug
+XOR
+YEAR
+w3.org/Security/Faq/
+warnings
+E_WARNING
+header() and
+zero form (normalization)
+zero
+7-Zip
