@@ -1,0 +1,389 @@
+(Multiple) phase-shift keying (M-PSK)
+3G cellular networks
+3G cellular service
+3GPP
+3GPP2
+ACQUIRE
+Activation
+Active tag
+network protocol (APTEEN)
+Address-centric
+Airborne agents
+Airflow measurement
+Air traffic control
+AM
+Amplitude modulation (AM)
+AMR
+APIs
+Applications
+APTEEN
+ARPAnet
+Artificial intelligence
+Asset management
+Automated meter reading (AMR)
+Automatic meter reading
+Backscatter
+Base station transceiver (BTS)
+Binary PSK (BPSK)
+Bluetooth
+Body-worn medical sensors
+Borders monitoring
+BPSK
+BTS
+Building automation
+Building loss
+C1WSNs
+C2WSNs
+CADR
+Call state control function (CSCF)
+Category 1 WSNs (C1WSNs)
+Category 2 WSNs (C2WSNs)
+CBM
+CDMA
+Centibots
+measurements
+Chemical contamination analysis
+Civil and environmental engineering
+semiconductor
+Code-division multiple access (CDMA)
+Cognitive radio (CR)
+Coherent demodulation
+Coherently detected DPSK
+Cold-war era military sensor networks
+Collaborative data processing
+Combat field surveillance
+Command
+Commercial applications
+Commercial building and control
+Commercial-off-the-shelf (COTS)
+Communication
+Communication drivers
+Communication processors
+Components in a sensor network
+Computation
+Computational logic
+Condition-based maintenance (CBM)
+Connectivity and topology
+Constrained anisotropic diffusion routing (CADR)
+Constrained energy use
+Control
+Control and actuation systems
+Control networks
+Cooperative
+COTS
+COUGAR
+CR
+CSCF
+DARPA
+Data-centric
+Data management
+Data processing
+Data rate
+Defense Advanced Research Projects Agency (DARPA)
+Defense systems
+Department of Homeland Security (DHS)
+Deterministic routing WSN systems
+DHS
+Differential detection
+Differential quaternary phase-shift keying (DQPSK)
+Differentially detected DPSK
+Diffraction
+Diffuse multipath
+Directed diffusion
+Direct-sequence spread spectrum (DSSS)
+Disposable microsensors
+Distributed data querying
+Distributed robotics
+Distributed sensor networks (DSN)
+DQPSK
+DSN
+DSSS
+Earthquake-oriented sensors
+EKG
+Electromagnetic interference (EMI)
+Embedded computing
+Embedded networking sensing
+Embedded sensing
+Embedding
+EMI
+Encoding
+Encryption
+Energy
+Energy monitoring
+Enhanced data rate (EDR)
+Entity tracking
+Environmental applications
+Environmental control
+Environment-oriented WSN
+Fab environment
+Failure
+FEC
+FHSS
+Fixed-mobile convergence operators
+Fleet management
+FM
+Forward error-correction (FEC) coding
+Free-space wave
+Frequency hopping spread spectrum (FHSS)
+Frequency modulation (FM)
+Frequency-division multiplexing
+GAF
+GBR
+GEAR
+General Packet Radio Service (GPRS)
+Generic protocol stack
+Geographic adaptive fidelity (GAF)
+Geographic and energy aware routing (GEAR)
+Global identification
+Global positioning system (GPS)
+Global system for mobile communications (GSM)
+GPRS
+GPRS/GSM
+GPS
+Grid computing
+GSM
+Habitat monitoring
+Hardware
+Harvard University
+Health applications
+Heartbeat sensors
+Heating
+High-frequency tags
+Highway monitoring
+Historical survey of sensor networks
+Home applications
+Home control
+Home security
+Home subscriber server (HSS)
+Hotspot/WiMax
+HSS
+HVAC
+IEEE 1451.5 (Wireless Sensor Working Group)
+IEEE 802.11a/b/g
+IEEE 802.11b/g Frequency bands
+IEEE 802.11e
+IEEE 802.11n Protocol
+IEEE 802.15.1 PAN/Bluetooth
+IEEE 802.15.3 ultrawideband (UWB)
+IEEE 802.15.4
+IEEE 802.16 WiMax
+IEEE 802.22
+IEEE PAN
+Image-based sensors
+Indoor interference
+Indoor signal strength
+Industrial automation
+Industrial monitoring
+Industrial
+Intelligence
+Interference
+ISM band
+ISR
+Lab-on-a-chip
+Large sensor population
+Large topology support
+Law-enforcement
+LEACH
+Lighting
+Lighting control
+Limb movements
+Location information
+Location-finding system
+Low-duty-cycle
+Low energy-adaptive clustering hierarchy (LEACH)
+Magnetic field sensors
+MANET
+Manufacturing control
+MECN
+Medical applications
+MEMSs
+Meter reading
+Microclimate assessment
+Micro-electromechanical systems (MEMSs)
+Microscale
+Microsensors
+Military applications
+Military examples
+Military surveillance
+Military tactical surveillance
+MIMO
+Miniature sensor
+Miniaturization
+Minimum energy communication network (MECN)
+Mobile ad hoc network (MANET)
+Mobile switching center (MSC) server
+Modulation
+Modulation basics
+Modulation schemes
+Monitoring for toxic chemicals
+Motes
+Moving Pictures Expert Group 4 (MPEG-4)
+MPEG-4
+M-PSK
+MSC
+Multihop
+Multihop networking
+Multipath
+Multipath types
+Multiple-input
+Multipoint-to-point
+Muscle activity
+Nanoscale
+Nanoscale electromechanical systems (NEMS)
+Nanoscopic sensor applications
+National Oceanographic and Atmospheric Administration (NOAA)
+National security
+National security applications
+NEMO
+NEMS
+Network design
+Network mobility (NEMO)
+Networking security
+Node unit costs
+Noncooperative
+Nonpropagating WSN systems
+OEMs
+OFDM
+Operating environment
+Operating system
+Operating systems and middleware
+Original equipment manufacturers (OEMs)
+Passive sensors
+Patch antenna
+Path loss
+PEGASIS
+Perimeter security
+Personal health diagnosis
+Phase modulation (PM)
+Phase shift keying (PSK)
+Physical connectivity
+Physical measurement
+Physical security
+Piezoelectric
+PM
+Point-to-point
+Power
+Power consumption
+Power-efficient gathering in sensor information systems (PEGASIS)
+Power generator
+Power management
+Power unit
+Present-day sensor network research
+Processing architecture
+Processing unit
+Programming interfaces (APIs)
+Propagation impairments
+Protocol comparison
+Protocols
+Protocol stack
+PSK
+Public safety
+QAM
+QoS
+Quadrature amplitude modulation (QAM)
+Quality of service (QoS)
+Querying capabilities
+Querying techniques
+Radiation and nuclear-threat detection systems
+Radio-frequency identification (RFID)
+Radio-frequency integrated circuits (RFICs)
+Radio propagation modes
+Radio system design
+Radio technology
+Reconfigurable sensor networks
+Reconnaissance
+Reed-Solomon (RS)
+Reflection
+RFICs
+RFID
+RFID tag
+RFID tags’ frequency
+Routing and data dissemination
+RS
+Rumor routing gradient-based routing (GBR)
+SAR
+Scattering
+Security
+Self-configurable and self-organizing WSN systems
+Self-configuring
+Self-organization
+Sensing of temperature
+Sensing unit
+Sensor drivers
+Sensor field
+Sensor protocols for information via negotiation (SPIN)
+Sensor taxonomy
+Sensor technology
+Sensor transducer (s)
+Sequential assignment routing (SAR)
+SG
+Shannon’s equation
+Signal attenuation due
+Signaling gateway (SG)
+Signal processing
+Singlehop
+Small minimum energy communication network (SMECN)
+Smart bricks
+SMECN
+Software
+Software-defined radios
+Specular multipath
+Spectrum
+SPEED
+SPIN
+Standards for transport protocols
+Stateless protocol for end-to-end delay (SPEED)
+Tag-reading sensors
+Target deduction
+Taxonomy
+Taxonomy of WSN technology
+TCCs
+TDMA
+TEEN
+Telemedicine
+Third Generation Partnership Project (3GPP)
+Third Generation Partnership Project 2
+(3GPP2)
+Third generation sensors
+Threshold-sensitive energy-efficient sensor network protocol (TEEN)
+Time-division multiple access (TDMA)
+TinyOS
+Topology
+Toxic agents
+Traffic surveillance
+Transmission channels
+Tsunami alerting
+Turbo coding
+Turbo convolutional codes (TCCs)
+Typical sensing node
+Typical sensor network arrangement
+UFAD
+UMTS
+UMTS release 5
+Underfloor air distribution (UFAD) systems
+UNII
+UNII bands
+Universal terrestrial access network (UTAN)
+Universal terrestrial radio access (UTRA)
+UTAN
+UTRA
+UWB
+Video surveillance
+Voice over packet
+Weight
+Wi-Fi (IEEE 802.11)
+Wi-Fi tags to track children
+Wildfire intstrumentation
+WiMax
+Wireless automated meter reading (AMR)
+Wireless mesh networks (WMNs)
+Wireless motes
+Wireless router
+Wireless sensor networks (WSNs)
+WLAN
+WMN
+WNs
+WN trends
+ZigBee
+ZigBee Alliance
+ZigBee protocol stack
