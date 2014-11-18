@@ -1,0 +1,1075 @@
+Abstract interface design
+Abstraction 99
+Access control
+Accessibility
+ACS-DCV function
+Action
+Activity
+activity
+Activity diagram
+Actors
+(ASD)
+Aesthetic design
+Aggregation
+Agile manifesto
+Agile modeling
+Agility
+cost of change
+human factors
+politics of
+principles of
+process
+Alpha testing
+Ambient intelligence
+Analysis classes
+Attributes
+defining operations
+identification of
+selection criteria
+state diagrams for
+types of
+Analysis model (see also
+model)
+class-based
+elements of
+flow oriented
+scenario-based
+Analysis patterns
+Anchor points
+Application domains
+Archetypes
+Architectural alternatives
+Architectural decisions
+template for
+(ADL)
+Architectural design
+Design
+context diagram
+elements of
+metrics
+WebApps
+Architectural mapping
+Architectural patterns
+Architectural structures
+grid
+hierarchical
+linear
+networked
+Architecture
+assessment of
+complexity of
+data centered
+data flow
+definition of
+genres
+importance of
+instantiations of
+layered
+MVC
+object-oriented
+patterns
+refinement of
+styles
+types of
+Method (ATAM)
+Aspect-oriented development
+Aspects
+Associations
+Attributes
+specifying
+Auditing
+Availability
+Baselines
+definition of
+project database
+Basis path testing
+Behavior models
+testing of
+Beta testing
+Black-box testing
+Bootstrap
+Boundary value analysis
+Box structure specification
+Bugs
+(BPR)
+Call and return architecture
+(CMM)
+Integration (CMMI)
+Certification
+Change
+Change control
+process description
+types of
+(CCA)
+Change management
+Change request
+Change set
+Chaos
+Check-in
+Checkout
+Chunking
+CK metrics suite
+Class diagrams
+Class model
+(CRC) model
+Class testing
+Class-based modeling
+Classes
+basic concepts
+design attributes
+metrics for
+testing methods
+Classic life cycle
+Cleanroom software engineering
+design
+process model
+strategy
+testing
+Cluster testing
+COCOMO II
+Code metrics
+Code restructuring
+Coding principles
+Cohesion
+metrics for
+types of
+Collaboration
+Collaborative development
+(CCP)
+Common Reuse Principle (CRP)
+Communication
+Communication diagram
+Compatibility tests
+Complexity
+architectural
+metrics defining
+Component-based development
+engineering (CBSE)
+Design
+Components
+adaptation
+architectural design
+class-based
+classifying
+composition
+definition of
+dependencies
+design of
+interfaces
+metrics for
+naming conventions
+process-related view
+qualification
+retrieving
+traditional
+wrapping
+Composite aggregate class
+Composite information
+Composition
+Concerns
+Concretions
+Concurrent engineering
+Condition testing
+consequence (CTC)
+Configuration audit
+Configuration objects
+identification
+WebApps
+Configuration review
+Configuration testing
+Construction
+Content architecture
+Content design
+Content management
+Content object
+Content testing
+Contingency planning
+Control specification (CSPEC)
+Control structure testing
+Correctness
+verification
+Costs
+change
+defects
+quality
+Coupling
+categories
+CRC cards
+Critical modules
+Critical path
+Cross cutting concerns
+Crystal
+Customers
+Cyclomatic complexity
+Data abstraction
+Data attibutes
+Data design
+Data flow architecture
+Data flow diagram
+context level
+creation of
+Data flow testing
+Data invariant
+Data modeling
+Data objects
+relationships
+Data restructuring
+Data tree
+Database testing
+Data-centered architecture
+Debugging
+automated
+process
+considerations
+strategies
+tactics
+tools
+Decision tables
+Decision trees
+Defect amplification
+(DRE)
+Defects
+Definition-use chain
+Dependencies
+(DIP)
+Dependency tracking
+Deployment
+diagrams
+principles
+testing
+Design classes
+characteristics of
+types of
+Design for reuse (DFR)
+Design model
+dimensions of
+metrics
+Design patterns
+description of
+goals
+granularity
+template
+types of
+Design process
+Design quality
+Design recovery
+Design verification
+Design
+architectural
+component level
+design steps
+graphical notation
+guidelines
+principles
+tabular notation
+WebApps
+concepts
+deployment level
+description of
+domain driven
+evolution of
+generic task set
+granularity
+object-oriented
+pattern-based
+postmodern
+principles
+reuse issues
+user interface
+user-centric
+WebApps
+XP
+Deterioration
+Display content
+Document restructuring
+Domain analysis
+Domain driven design
+Domain engineering
+Drivers
+Method (DSDM)
+Earned value analysis (EVA)
+Efficiency
+Elaboration
+Elicitation
+work products
+End users
+(ECO)
+diagrams
+Equivalence partitioning
+Error density
+correction of
+definition of
+estimation
+handling
+Estimation
+agile
+automated
+decomposition techniques
+empirical models
+example of
+FP-based
+LOC-based
+OO projects
+problem-based
+process-based
+reconciling
+use cases
+WebApps
+Ethics
+Events
+Evolutionary process model
+Extreme Programming (XP)
+coding
+debate about
+design
+Industrial XP
+key elements
+planning
+process
+testing
+Factoring
+Failure
+Failure curve
+Failures-in-time (FIT)
+Feature definition
+(FDD)
+Fitt’s Law
+Flow graph notation
+Flow-oriented modeling
+Formal design
+Formal methods
+concepts
+examples of
+languages
+mathematical notation
+Formal technical reviews
+also Reviews
+Forward engineering
+client server
+OO systems
+Framework activity
+Framework models
+Frameworks
+Function point (FP)
+estimation of
+Functional design
+Functional independence
+Functional model
+Functional specification
+Functionality
+Genres
+Glass-box testing
+Globalization
+Golden rules
+Good-enough software
+Grammatical parse
+Granularity
+Graph matrix
+Graphic design
+Guard
+Hazard analysis
+Help facilities
+Human factors
+Inception
+Increment planning
+Independent paths
+(ITG)
+Indicator
+Information
+representation
+spectrum
+Information flow continuity
+Information hiding
+Inheritance
+Integration testing
+bottom-up
+breadth-first
+depth-first
+OO context
+top-down
+work products
+Integrity
+Interaction mechanisms
+Interaction model
+analysis
+design
+mechanisms
+semantics
+testing
+(ISP)
+Internationalization
+Inventory analysis
+ISO 9001:2000
+ISO 9126 quality factors
+Issues list
+(LSD)
+Legacy software
+Liability
+Lines of code (LOC)
+(LSP)
+Load testing
+Loop testing
+Maintainability
+Maintenance
+metrics
+Make/Buy decision
+Mapping
+Maturity model
+(MTBF)
+Mean-time-to-repair (MTTR)
+Measure
+Measurement
+Mental model
+Messages
+Metaphors
+Metrics
+architectural design
+arguments in favor
+attributes of
+baseline
+class-oriented
+components
+cyclomatic complexity
+definition of
+design model
+establishing a program
+etiquette
+function-oriented
+maintenance
+morphology
+object-oriented
+process
+product
+project
+public and private
+reconciling LOC and FP
+reliability
+requirements
+size-oriented
+small organizations
+software quality
+specification quality
+SPI
+SQA
+technical reviews
+terminology
+testing
+use cases
+user interface
+WebApps
+Modeling
+(MVC)
+Modularity
+MOOD metrics suite
+Multiplicity
+Myths
+Navigation design
+Navigation modeling
+(NSUs)
+Navigation semantics
+Navigation syntax
+Navigation testing
+Negligence
+Negotiation
+Netsourcing
+(OCL)
+example of
+notation
+Object elaboration
+Object points
+Object-oriented
+analysis
+architecture
+design
+models
+OMG/CORBA
+OOHDM
+Open source software
+Open world computing
+Open-closed principle (OCP)
+Operations
+Orthogonal array testing
+Outsourcing
+Packages
+Pair programming
+Partition testing
+Path testing
+Pattern languages
+Pattern organizing table
+Patterns
+analysis
+architecture
+component-level
+creational
+description of
+design
+generative
+repository
+requirements modeling
+testing
+user interface
+WebApps
+People
+effort
+communication issues
+People CMM
+Performance testing
+Personal Software Process (PSP)
+Phase pattern
+Planning
+effort distribution
+principles
+XP
+Polymorphism
+Portability
+Postcondition
+Practice
+description of
+essence of
+principles
+Precondition
+Priority points
+Problem decomposition
+Procedural abstraction
+Process
+adaptation
+agile
+business level
+decomposition
+duality of
+elements of
+management issues
+metrics integration
+patterns
+principles
+trends
+Process activation table
+Process assessment
+Process flow
+Process framework
+Process model
+activities
+agile
+aspect-oriented
+concurrent
+evolutionary
+generic
+incremental
+prescriptive
+specialized
+work flow
+Process specification (PSPEC)
+Process technology
+Producer
+Product
+(PDL)
+Project
+Project management
+concepts
+critical practices
+Project planning
+estimation
+resources
+task set
+Project tracking
+Project velocity
+Proof of correctness
+Prototyping
+Curve
+Quality
+guidelines
+management
+measurement
+metrics
+views of
+(QFD)
+Questions
+Random testing
+Readability
+Recovery testing
+Reengineering
+reengineering
+Refactoring
+Refinement
+Regression testing
+Principle (REP)
+Reliability
+definition of
+metrics
+Reporting
+Repository
+design patterns
+features
+hypermedia
+role of
+Requirements
+emergent
+negotiating
+tracing
+validating
+Requirements analysis
+limits on
+objectives
+rules of thumb
+Requirements engineering
+Requirements gathering
+Requirements management
+Requirements model
+class-based
+elements of
+eliciting
+metrics
+scenario-based
+Requirements modeling
+approaches
+input to
+output from
+patterns
+principles
+strategies
+WebApps
+Requirements specification
+template
+checklist
+Resources
+Response time
+Responsibilities
+allocation guidelines
+Restructuring
+Reuse
+Reuse library
+Reverse engineering
+data
+processing
+user interface
+Review leader
+Review meeting
+Reviews
+analyzing effectiveness
+checklists
+cost effectiveness
+development effort 
+formality spectrum
+guidelines
+informal
+inspection data
+issues list
+metrics for
+record keeping
+reference model
+reporting
+sample driven
+summary report
+walkthroughs
+Risk exposure
+Risk information sheet
+Risk item checklist
+Risk management
+Risk table
+Risks
+assessing
+components and drivers
+CTC format
+exposure from
+identification of
+impact of
+mitigation
+projection
+refinement
+types of
+RMMM plan
+SafeHome
+ACS-DCV function
+activity diagram
+actors
+agile development
+archetypes
+architecture assessment
+architecture refinement
+behavioral modeling
+CK metrics
+class diagram
+class models
+class testing
+cohesion
+content design
+context diagram
+coupling
+CRC models
+customer communication
+cyclomatic complexity
+data flow model
+data tree
+debugging
+design class
+design concepts
+design vs. coding
+domain analysis
+estimation
+function points
+golden rules
+grammatical parse
+interface design review
+interface representation
+metrics approach
+metrics debates
+negotiation
+NSUs
+OCP in action
+outsourcing
+patterns
+preliminary user scenario
+product narrative
+project initiation
+project metrics
+project tracking
+PSPEC
+requirements gathering
+reviews
+risk analysis
+SCM issues
+screen layout
+state diagram
+team structure
+test case design
+test preparations
+UI design
+use cases
+validation
+WebApp
+Scalability
+SCAMPI
+Scenario-based modeling
+Scheduling
+concepts
+principles
+WebApps
+Scope
+Scrum
+Security
+Security testing
+Self-organization
+Sensitivity testing
+Separation of concerns
+Sequence diagram
+Six Sigma
+Smoke testing
+Software
+application domains
+building blocks
+characteristics
+death of
+definition of
+economist’s view
+importance of
+myths
+nature of
+open source
+open-world
+questions about
+Software architecture
+Architecture
+(SCIs)
+elements of
+process
+repository
+scenario
+standards
+tasks
+WebApps
+Software design
+Design
+Software engineering
+core principles
+definition of
+environments
+ethics
+general principles
+layers
+model driven
+practice
+realities
+test driven
+Software equation
+Software evolution
+Software increment
+Software maintenance
+Maintenance
+Software maturity index
+(SPI)
+approaches to
+assessment
+constituencies
+critical success factors
+definition of
+education
+elements of
+framework
+installation/migration
+process
+risk management
+ROI
+selection/justification
+trends
+Software quality
+achieving
+assessing
+cost of
+definition of
+design guidelines
+dilemma
+dimensions of
+elements of
+actions
+McCall’s factors
+quantitative view
+relative costs
+(SQA)
+attributes
+elements of
+formal approaches
+goals
+metrics
+planning
+statistical
+tasks
+Software quality control
+Software reengineering
+economics of
+process model
+Software safety
+Software science
+Software scope
+Software sizing
+Software team
+Specification
+SPICE
+Spike solution
+Spiral model
+Stage pattern
+Stakeholders
+identifying
+multiple viewpoints
+Standards
+State diagram
+State representations
+Statistical SPI
+Statistical use testing
+Status reporting
+Stereotype
+Story-driven development
+Stress testing
+Strong AI
+Structure chart
+Structured analysis
+Structured design
+Structured programming
+Stubs
+Styles
+Subclass
+Superclass
+Supportability
+Swimlane diagram
+Synchronization control
+System of forces
+System perception
+System testing
+Task
+analysis
+elaboration
+network
+pattern
+Task set
+example
+identifying
+Team
+agile
+future trends
+jelling of
+leaders
+self organizing
+structures
+Team Software Process (TSP)
+Technology
+evolution
+grand challenge
+hype cycle
+innovation cycle
+long view
+managing complexity
+trends
+Test cases
+Testability
+Testing
+behavior models
+black box
+class hierarchy
+client/server
+completion criteria
+component level
+content
+control structure
+conventional software
+data flow
+database
+deep structure
+documentation
+exhaustive
+fault-based
+fundamentals
+graph-based
+GUIs
+help facilities
+loops
+metrics
+model-based
+multiple classes
+navigation paths
+object-oriented software
+organization
+patterns
+performance
+principles
+real-time systems
+scenario-based
+security
+specialized
+state-based
+statistical
+strategic approach
+surface structure
+thread-based
+use-based
+WebApps
+white-box
+XP
+TickIT
+Time-line charts
+Time-to-market
+Tools
+ADLs
+agile development
+UML
+architectural design
+BPR
+CBSE
+change management
+CVS
+data modeling
+debugging
+estimation
+formal methods
+process management
+process modeling
+product metrics
+project and process
+project management
+requirements engineering
+restructuring
+reverse engineering
+risk management
+scheduling
+SCM support
+SQA
+structured analysis
+test case design
+test management
+trends
+UI development
+use case development
+WebApp metrics
+WebApp testing
+Trends
+Umbrella activities
+UML
+activity diagram
+class diagram notation
+notation
+component diagram
+deployment diagram notation
+generalization
+history of
+OCL
+realization
+sequence diagram
+state diagram
+stereotype
+swimlane diagram
+use-case diagram
+Unified Process
+agile version
+phases of
+Unit testing
+considerations
+OO context
+Usability
+design
+tests
+questions
+Usage scenarios
+Use cases
+creating
+diagram
+exceptions
+formal
+interface design
+isolating events
+refining
+models
+template
+Use-based testing
+User analysis
+User interface
+analysis of
+design model
+patterns
+testing of
+Design
+User model
+User stories
+Users
+Validation
+Validation testing
+OO context
+test criteria
+Verification
+Version control
+Versioning
+Vital few
+V-model
+W 5 HH principle
+Waterfall model
+Ways of navigating (WoN)
+Wear
+Web applications (WebApps)
+aesthetic design
+architectural design
+characteristics of
+component-level design
+management
+configuration model
+configuration objects
+content model
+design patterns
+design pyramid
+design quality
+errors
+functional model
+interaction model
+interface design
+managing changes
+metrics
+navigation design
+navigation modeling
+quality dimensions
+requirements modeling
+test planning
+testing concepts
+testing process
+testing strategy
+user interface design
+White-box testing
+(WBS)
+Work environment
+Work flow
+Z specification language
