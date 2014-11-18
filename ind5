@@ -1,0 +1,1156 @@
+in key names
+in queries
+dot notation (queries)
+in key names
+ABA problem
+access restrictions
+active members
+active/active clusters
+adding data to collections
+PHP driver for
+PyMongo for
+using batches
+adding files to database
+with PHP driver
+adding indexes
+addshard command
+$addToSet operator
+addUser() function
+admin database
+admin user
+aggregate data servers
+aggregation commands
+with PHP driver
+with PyMongo
+$all operator
+allPlans element
+appending values to fields
+aptitude (software)
+--arbiter option (mongod)
+arbiters
+arg parameter
+Array data type
+$ for position in
+adding values to
+deleting values from
+indexes on embedded keys
+matching entire
+using in queries
+ascending order
+asserts section
+atomic operations
+with PHP driver
+with PyMongo
+atomic updates on keys
+--auth startup option
+authentication
+auto-sharding
+automatic backups
+available databases and collections
+background indexing
+background option
+backing up MongoDB server
+automatic backups
+customization of
+large databases
+backups
+batching inserts
+Big Endian
+bin directory
+binary data
+storing
+blog application (example)
+creating index pages
+document structure
+final code
+listing posts
+looking at single posts
+comment management
+managing posts
+adding posts
+deleting posts
+editing posts
+searching posts
+Boolean data type
+$box shape
+BSON
+matching results by BSON type
+bug tracking for MongoDB
+--c option (mongodump)
+--c option (mongorestore)
+capped collections
+cascade replication
+case sensitivity in naming
+$center shape
+chat with MongoDB developers
+checksums
+chunks (binary data)
+chunk size
+chunks collection
+content of
+$circle shape
+close() command
+close() function (Mongo)
+cloud-based datastores
+collection argument
+collection parameter
+collections
+about
+accessing directly
+backing up single
+capped
+counting documents in
+with PHP driver
+with PyMongo
+defined
+inserting data into
+with PHP driver
+with PyMongo
+using batches
+reindexing
+removing
+removing documents from
+renaming
+repairing datafiles
+repairing indexes
+repairing validation faults
+size of
+validating single collection
+viewing available
+collision (cryptographic)
+comma-delimited data
+commands
+comments in blog (example)
+compatibility of MongoDB
+complex data structures
+composite indexes
+compound indexing
+compound keys
+compound primary keys
+cond parameter (group)
+conditional operators
+with PHP driver
+with PyMongo
+config server (sharding)
+configuring servers
+conn column (mongostat)
+connect() command
+connecting to database
+with PHP driver
+with PyMongo
+with replica pairs
+connecting to PHP driver
+copies of database
+CouchDB
+count() function
+count(true)
+invoked from PHP driver
+invoked from PyMongo
+counter field
+create() function (DBRef)
+create_index() function (PyMongo)
+createCollection() function
+creating indexes
+creation date (files)
+credentials
+criteria argument (update)
+CSV data
+CSV format
+cursor element
+--d option (mongodump)
+--d option (mongorestore)
+exporting into MongoDB
+importing into MongoDB
+reading and writing
+securing
+validating and repairing
+repairing collection faults
+repairing datafiles
+repairing indexes
+repairing server for
+single collection
+data isolation
+data model
+building indexes
+designing database
+collections
+documents
+_id field
+geospatial indexing
+querying geospatial information
+data partitioning
+data replication
+data structures
+data types
+matching results by
+/data/db directory
+database administration
+backing up MongoDB server
+automatic backups
+customization of
+large databases
+exporting data into MongoDB
+importing data into MongoDB
+log files
+monitoring MongoDB
+securing data
+server management
+getting server status
+getting version number
+reconfiguring servers
+shutting down
+starting servers
+tools for
+upgrading MongoDB
+validating and repairing data
+repairing collection faults
+repairing datafiles
+repairing indexes
+repairing server for
+single collection
+database argument
+database parameter
+about
+backing up single
+connecting to
+with replica pairs
+designing
+collections
+documents
+_id field
+multiple copies of
+natural order
+navigating
+nonrelational
+referencing
+with DBRef
+manually
+removing data from
+with PHP driver
+with PyMongo
+removing documents from
+with PHP driver
+with PyMongo
+removing entire
+replicating data and
+schemaless
+storing files
+viewing available
+local
+remove (cloud-based)
+Date data type
+db command
+db directory
+--dbpath flag (mongod)
+dbpath configuration option
+DBRef
+in blog application (example)
+DBRef() function (PyMongo)
+delete command (mongofiles)
+delete() function (MongoGridFS)
+field values
+files
+files from database
+indexes
+posts from blog application (example)
+shards
+slaves datafiles
+users (credentials)
+values from arrays
+dereference() function (PyMongo)
+descending order
+developers
+development releases
+development system
+dictionaries
+--directoryperdb option (mongodump)
+with PHP driver
+with PyMongo
+disconnecting from PHP driver
+disk layout
+distinct() function
+doc parameter
+document size
+document-orientated storage
+documents
+accessing directly
+atomic operations on
+with PHP driver
+with PyMongo
+counting
+with PHP driver
+with PyMongo
+creating links between
+in blog application (example)
+defined
+embedded vs. referenced data
+example (blog application)
+how used
+natural order
+in PHP
+in Python
+removing
+with PHP driver
+with PyMongo
+skipping in queries
+blog application (example)
+with PHP driver
+with PyMongo
+unique identifiers for
+dot notation
+Double data type
+--dpath option (mongodump)
+draining shards
+drivers
+PHP driver
+Python driver
+drop() function (MongoDB)
+drop() function (PHP)
+drop() function (PyMongo)
+--drop option (mongorestore)
+--drop option (mongoimport)
+drop_collection() function (PyMongo)
+drop_database() function (PyMongo)
+dropDatabase() function
+dropdups option
+dropIndex() function
+dropIndexes() function
+duplicates
+durability
+dynamic queries
+easy_install command
+$elemMatch operator
+embedded documents
+data partitioning and
+indexes on
+embedding information in documents
+ensureIndex() function
+background option
+options for
+even integers
+$exists operator
+explain() function
+exporting data into MongoDB
+Ext (Extensions) directory
+--f option (mongoexport)
+--fastsync option (mongod)
+features of MongoDB
+field parameter
+adding to arrays
+appending to fields
+deleting
+deleting from arrays
+editing
+length of field names
+with PHP driver
+with PyMongo
+fields parameter
+Filename key
+adding metadata to
+adding to database
+with PHP driver
+deleting from database
+with PHP driver
+hashing
+length of
+managing with PyMongo
+memory-mapped
+repairing
+retrieving
+retrieving from database
+storage of
+files collection
+finalize parameter (group)
+find_one() function (PyMongo)
+find() function
+dot notation
+explain() function with
+with PHP driver
+in blog example
+find() function (PyMongo)
+findandmodify() function
+invoked from PHP driver
+invoked from PyMongo
+finding slow queries
+findOne() function
+in blog application (example)
+with PHP driver
+forward natural order
+framesets
+freezing master server for writes
+fsync operation (backups)
+fsync option
+fsync option
+fsync option
+grouping query results
+with PHP driver
+with PyMongo
+$gt parameter
+min() function vs.
+$gte parameter
+hardware
+hashing files
+--headerline option (mongoimport)
+help on MongoDB
+hint() function
+invoked from PHP driver
+invoked from PyMongo
+horizontal partitioning
+hostname command
+hotspots (sharding system)
+hyperthreading
+generating keys
+geoNear() function
+geospatial indexing
+querying geospatial information
+get command (mongofiles)
+get() function (DBRef)
+getBytes() function (MongoGridFSFile)
+getFilename() function (MongoGridFS)
+getlasterror method
+github website
+Google group on MongoDB
+greater than or equal parameter (find)
+greater than parameter (find)
+min() function vs.
+GridFS
+accessing from Python
+mongofiles command-line utility
+PHP driver and
+group() function
+i flag (MongoRegex)
+id argument
+_id identifier
+creating
+referencing data manually
+using with GridFS
+id parameter
+_id parameter
+identify indexes
+%idx miss column (mongostat)
+--ignoreblanks option (mongoimport)
+import pymongo command
+import() function
+importing data into MongoDB
+$in operator
+in-place updating
+$inc operator
+indexBounds element
+indexes
+creating compound
+creating simple
+how selected
+listing
+options for
+repairing
+requiring for certain queries
+with PHP driver
+with PyMongo
+unique
+indexes.find() function
+indexing documents
+in background
+deleting indexes
+enforcing uniqueness
+geospatial indexing
+performance implications
+info field
+initial parameter (group)
+initialsynccomplete element (pair.sync)
+in-place updating
+insert() function
+invoked from PHP driver
+in blog application (example)
+invoked from PyMongo
+inserting data into collections
+PHP driver for
+PyMongo for
+using batches
+installing MongoDB
+choosing version
+under Linux
+under Windows
+installing PHP driver
+automatically on UNIX platforms
+manually on UNIX platforms
+on Windows
+installing Python driver
+Integer data type
+interleaved replication
+isdbgrid command
+isolation
+issue tracking for MongoDB
+JavaScript Code data type
+JavaScript query expressions
+JIRA tracking system
+journaling filesystem
+JSON
+BSON vs.
+importing JSON data
+justOne option
+key parameter (group)
+keyf parameter (group)
+atomic updates on
+constraining query matches to
+defined
+embedded in arrays
+generating (creating)
+how to use
+names for
+killOp() function
+l flag (MongoRegex)
+large databases
+lazy writes
+length
+less than or equal parameter (find)
+less than parameter (find)
+min() function vs.
+levels
+limit() function
+with count
+invoked from PHP driver
+invoked from PyMongo
+$slice operator vs.
+linebreaks in shell commands
+linking documents
+in blog application (example)
+links (navigation) for paging
+Linux
+list command (mongofiles)
+listCollections() function (Mongo)
+listDBs() function (Mongo)
+listshards command
+Little Endian
+local datastores
+localhost
+lock operation (backups)
+locked column
+percent locked column
+locking master server for writes
+log files
+logappend configuration option
+logpath configuration option
+$lt parameter
+max() function vs.
+$lte parameter
+m flag (MongoRegex)
+managing servers
+getting server status
+getting version number
+reconfiguring servers
+shutting down
+starting servers
+manipulate argument
+manual installation of MongoDB
+manual referencing with DBRef
+manual sharding
+manually defined compound indexes
+map dictionary (PyMongo)
+map function
+map_reduce() function (PyMongo)
+Map/Reduce
+mapreduce parameter (group)
+mapreduce() function (PHP)
+master databases
+--master option (mongod)
+master/master replication
+configuring
+multiple master
+replica pairs
+connecting applications to
+coping with failure
+resolving disputes with arbiter
+replica sets
+adding servers to
+connecting to
+creating
+determining status of
+implementing shards with
+launching member
+managing
+options for members
+resynchronizing
+scenarios for
+cascade replication
+interleaved replication
+master/master replication
+single master
+single master
+matches
+max: parameter (createCollection)
+max() function
+maximum number of query results
+with PHP driver
+with PyMongo
+MaxKey data type
+MD5 hashing algorithm
+me collection
+members structure (replica sets)
+memcached application
+memory
+memory-mapped files
+adding to files
+installing MongoDB under
+installing PHP driver on
+installing PyMongo under
+milis field
+millis element
+min() function
+MinKey data type
+$mod operator
+modules
+mongo application
+Mongo class
+mongo console
+authenticating in
+MongoCode class
+MongoCollection class
+MongoCursor class
+mongod application
+MongoDB
+choosing version
+under Linux
+under Windows
+MongoDB
+MongoDB drivers
+PHP driver
+Python driver
+#MongoDB channel
+MongoDB class
+MongoDB philosophy
+MongoDB profiler
+MongoDB shell
+mongodb.conf file
+mongodb-user group
+mongodump utility
+mongoexport utility
+mongofiles utility
+MongoGridFS class
+MongoGridFSCursor class
+MongoGridFSFile class
+mongoimport utility
+MongoRegex class
+mongorestore utility
+mongos daemon
+mongostat utility
+monitoring MongoDB
+mounting filesystems
+multi argument
+multi-key indexes
+multiple argument
+multiple copies of database
+multiple expressions in documents
+multiple keys (multi keys)
+multiple-master
+replication
+multiple-slave
+n element
+case sensitivity
+for collections
+of fields
+for keys
+namespaces
+natural order
+$natural parameter
+navigating databases
+navigation links for paging
+$ne parameter
+$near operator
+new parameter
+$nin operator
+nonrelational databases
+not equals parameter (find)
+$not meta-operator
+nScanned element
+nScannedObjects element
+nssize parameter
+Null data type
+--o (out) option (mongodump)
+--objcheck option (mongorestore)
+Object data type
+Object ID data type
+objNew argument (update)
+odd integers
+$offset parameter
+:1 and :-1 parameters (ensureIndex)
+--only option (mongod)
+opcounter section
+oplog
+oplog.$main collection
+optimization
+index management
+creating compound indexes
+creating simple indexes
+index selection
+listing indexes
+specifying index options
+query performance
+evaluating with explain()
+profiler
+server hardware
+sharding for
+storage of small objects
+options parameter
+--oplogSize option (mongod)
+$or operator
+ascending order
+natural order
+in results lists
+with PHP driver
+with PyMongo
+ordering index elements
+paging
+blog application example
+pair.sync collection
+partitioning data
+passive members
+password
+Pastie website
+PECL repository
+performance
+indexes and
+query results and
+replication and
+performance optimization
+index management
+creating compound indexes
+creating simple indexes
+index selection
+listing indexes
+specifying index options
+query performance
+evaluating with explain()
+profiler
+server hardware
+sharding for
+storage of small objects
+permissions
+PHP
+PHP
+PHP driver
+connecting to database
+core MongoDB classes
+DBRef with
+in blog application (example)
+deleting data
+GridFS and
+inserting data
+installing
+automatically on UNIX platforms
+manually on UNIX platforms
+on Windows
+modifying data
+atomically
+using modifier operators
+using save()
+using update()
+querying for data
+in blog example
+couting results
+filtering for specific information
+finding all documents
+grouping with Map/Reduce
+querying for specific information
+regular expressions
+returning single document
+sorting
+specifying index
+using conditional operators
+php.ini file
+phpinfo() command
+$pop operator
+prerequisites to running MongoDB
+previous releases
+primary keys
+primary server
+print_r() function (PHP)
+printReplicationInfo() method
+printShardingStatus() command
+production releases
+profiling levels
+profiling queries
+profiling query performance
+$pull operator
+$pullAll operator
+$push operator
+$pushAll operator
+put command (mongofiles)
+PyMongo driver
+connecting to database
+DBRef with
+inserting data
+modifying data
+atomically
+using modifier operators
+using save()
+using update()
+modules
+querying for data
+couting results
+filtering for specific information
+finding all documents
+grouping with Map/Reduce
+querying for specific information
+regular expressions
+returning single document
+sorting
+specifying index
+using conditional operators
+PyMongo package
+Python
+accessing GridFS from
+documents in
+using PyMongo modules
+working with documents
+Python driver
+--q option (mongoexport)
+queries
+$ character in
+aggregation commands
+with PHP driver
+with PyMongo
+conditional operators
+with PHP driver
+with PyMongo
+dot notation
+of geospatial information
+JavaScript expressions in
+PHP driver for
+in blog application (example)
+filtering for specific information
+profiling
+PyMongo for
+filtering for specific information
+regular expressions in
+with PHP driver
+with PyMongo
+requiring specific indexes for
+with PHP driver
+with PyMongo
+for single documents
+with PHP driver
+with PyMongo
+sort
+with PHP driver
+with PyMongo
+query analyzer component
+query parameter
+query performance
+evaluating with explain()
+evaluating with MongoDB profiler
+index management
+creating compound indexes
+creating simple indexes
+index selection
+listing indexes
+specifying index options
+query plan
+arrays of matches
+based on BSON type
+constraining to specific index keys
+ensuring unique values
+entire arrays
+excluding documents from
+filtering by size
+grouping
+with PHP driver
+with PyMongo
+maximum number of
+with PHP driver
+with PyMongo
+sorting
+with PHP driver
+with PyMongo
+RAC architecture
+re module (Python)
+reading data
+read-only permissions
+Real Application Clusters (RAC)
+rebalancing shards
+rebuilding indexes
+reconfiguring servers
+reduce dictionary (PyMongo)
+reduce function
+reduce parameter (group)
+redundancy
+referencing databases
+with DBRef
+in blog application (example)
+manually
+referencing information in documents
+regular expressions
+with PyMongo
+with PHP driver
+reIndex() function
+reindexing collections
+reliability
+remote datastores
+remove parameter
+remove() function
+invoked from PHP driver
+in blog application (example)
+invoked from PyMongo
+removeShard command
+removing data
+with PHP driver
+in blog application (example)
+with PyMongo
+renameCollection() function
+renaming collections
+--repair option (mongod)
+repairDatabase() function
+repairing data
+collection datafiles
+collection faults
+collection indexes
+repairing server for
+--repairpath option (mongod)
+replica pairs
+replicating data
+replication
+configuring
+goals of
+hardware for
+multiple-master
+oplog
+replica pairs
+connecting applications to
+coping with failure
+resolving disputes with abriters
+replica sets
+adding servers to
+connecting to
+creating
+determining status of
+implementing shards with
+launching member
+managing
+options for members
+resynchronizing
+scenarios for
+cascade replication
+interleaved replication
+master/master replication
+single-master
+single-master
+--replSet option (mongod)
+repositories
+requirements for running MongoDB
+--rest option (mongod)
+restricting server access
+results
+arrays of matches
+based on BSON type
+constraining to specific index keys
+ensuring unique values
+entire arrays
+excluding documents from
+filtering by size
+results
+grouping
+with PHP driver
+with PyMongo
+maximum number of
+with PHP driver
+with PyMongo
+sorting
+with PHP driver
+with PyMongo
+replication
+retrieving files
+right tool for the right job
+rights
+rs.add() method
+rs.addArbiter() method
+rs.conf() method
+rs.help() method
+rs.initiate() method
+rs.isMaster() method
+rs.status() method
+rs.stepDown() method
+running MongoDB
+s flag (MongoRegex)
+s3cmd utility
+safe argument
+safe argument
+safe option
+safe option
+save() function
+invoked from PHP driver
+invoked from PyMongo
+scalability
+schema design
+schemaless databases
+search command (mongofiles)
+secondary keys
+secondary servers
+securing data
+selectCollection() function (Mongo)
+selectDB() function (Mongo)
+backing up
+automatic backups
+customization of
+large databases
+hardware
+management of
+reconfiguring
+repairing
+restricting access to
+shutting down
+starting
+status of
+version of
+serverStatus() command
+$set operator
+$set parameter
+setProfilingLevel() function
+settings structure (replica sets)
+SHA encryption
+shapes
+sharding
+auto-sharding
+configuration for
+adding shards to cluster
+removing shards from cluster
+data partitioning
+determining how connected
+getting status of shared clusters
+implementing
+improving performance with
+need for
+scenario (example)
+sharding key function
+sharding keys
+show collections command
+show dbs command
+show users command
+shutdownServer() command
+shutting down servers
+SIG_KILL(-9) signal
+single-document queries
+with PHP driver
+with PyMongo
+single-master
+single-master
+single-slave
+replication
+single-threaded operations
+size
+size
+size
+size
+$size operator
+skip() function
+$slice operator vs.
+in blog application (example)
+with count
+invoked from PHP driver
+invoked from PyMongo
+skipping documents in queries
+blog application (example)
+with PHP driver
+with PyMongo
+slave databases
+--slave option (mongod)
+slave servers for backups
+--slavedelay option (mongod)
+slaves collection
+$slice operator
+in blog application (example)
+slow queries
+small objects
+snapshots
+sort parameter
+sort() function
+invoked from PHP driver
+invoked from PyMongo
+on unindexed fields
+sorting index elements
+sorting query results
+with PHP driver
+with PyMongo
+--source option (mongod)
+sources collection
+stable releases
+staging system
+starting servers
+status
+storage of small objects
+storeUpload() function (MongoGridFS)
+storing binary data
+storing files
+String data type
+subdocument compound indexes
+support for MongoDB
+symbol data type
+syncedTo element (sources)
+--sysinfo flag
+system.indexes collection
+system.profile collection
+system.users collection
+tagcloud functions
+third-party administration tools
+Timestamp data type
+timestamp field
+transactions
+ts field
+TSV data
+$type operator
+u flag (MongoRegex)
+unique option
+of document identifiers
+of indexes
+of query results
+Unix platforms
+$unset operator
+unstable releases
+Update if current method
+update parameter
+update() function
+invoked from PHP driver
+in blog application (example)
+invoked from PyMongo
+update() function (MongoGridFS)
+in blog application (example)
+updating data
+atomic operations
+with PHP driver
+with PyMongo
+automatically
+in capped collections
+in-place updates
+with PHP driver
+in blog application (example)
+with PyMongo
+--upgrade option (mongod)
+upgrading MongoDB
+uploadDate key
+upsert argument
+upsert parameter
+with save() function
+with update() function
+use command
+validate() function
+validating data
+repairing collection faults
+repairing datafiles
+repairing indexes
+repairing server for
+single collection
+values for keys
+version
+version
+version() command
+version numbers
+vertical partitioning
+viewing available databases and collections
+volume managers
+website for MongoDB
+while() function (PHP)
+installing MongoDB under
+installing PHP driver on
+installing PyMongo under
+$within operator
+writing data
+x flag (MongoRegex)
+XML for data structures
